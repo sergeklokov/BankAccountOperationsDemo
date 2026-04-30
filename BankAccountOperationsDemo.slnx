@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="coding task for bank.JPG" />
+    <File Path="git_sergeklokov_setup.bat" />
+    <File Path="ReadMe.md" />
+  </Folder>
   <Project Path="BankAccountOperationsDemo/BankAccountOperationsDemo.csproj" />
 </Solution>
